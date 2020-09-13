@@ -121,6 +121,11 @@ input[type="text"] {
   cursor: pointer;
 }
 
+a {
+  text-decoration: none;
+  color: white;
+}
+
 .footer {
   background: #ed1d24;
   color: white;
